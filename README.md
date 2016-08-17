@@ -1,0 +1,1 @@
+# regalproperties.github.io
