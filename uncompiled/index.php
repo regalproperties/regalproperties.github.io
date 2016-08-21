@@ -12,7 +12,7 @@
 			<!-- <embed id="E" src="regal2.svg"/> -->
 			<?php include 'regal2.php'; ?>
 			<!-- </center> -->
-			<span class="reg-discover">Click above to discover</span>
+			<span class="reg-discover">Click icons to discover what we can offer you</span>
 			<p class="center">
 
 				<a href="#more" id="more-link">
@@ -41,7 +41,6 @@
 				<br />
 				<br />
 				The first of its kind in Sri Lanka, we handle everything from a simple purchase to the most complicated sale, while taking care of the legal aspect and offering advice on existing and future development properties.
-
 			</p>
 		</div>
 
@@ -66,27 +65,27 @@
 				</a>
 				 -->
 				<!-- <br /> -->
-				<form action="//mcgill.us9.list-manage.com/subscribe/post?u=628815290e13ed7006948fc5e&amp;id=d76d5b1fb1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+				<!-- <form action="//mcgill.us9.list-manage.com/subscribe/post?u=628815290e13ed7006948fc5e&amp;id=d76d5b1fb1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate> -->
 					
 					<input type="email" value="" name="EMAIL" class="email form-control" id="mce-EMAIL" placeholder="you@yourwebsite.com">
 					<!-- emppty section for bots -->
 					<div style="position: absolute; left: -5000px;"><input type="text" name="b_628815290e13ed7006948fc5e_d76d5b1fb1" tabindex="-1" value=""></div>
 					<input type="submit" value="Get Notified" name="subscribe" id="mc-embedded-subscribe" class="btn btn-default">
-				</form>
+				<!-- </form> -->
 			</p>
 
 			<h2 class="as-h-question" id="as-notification">	
-				Social Media
+				Get in touch
 			</h2>
 				<ul class="list-inline banner-social-buttons">
 					<li>
-				    	<a href="mailto:mcgillbiosciencestudents@gmail.com" class="btn btn-default btn-lg"><i class="fa fa-envelope fa-fw" target="_blank"></i></a>
+				    	<a href="mailto:info@regalpropertysl.com" class="btn btn-default btn-lg"><i class="fa fa-envelope fa-fw" target="_blank"></i></a>
 					</li>
                     <li>
-                        <a href="https://www.facebook.com/groups/McGillIntegrativeBioscienceSociety/" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw" target="_blank"></i></a>
+                        <a href="https://www.facebook.com/regalpropertysl" class="btn btn-default btn-lg"><i class="fa fa-facebook fa-fw" target="_blank"></i></a>
                     </li>
                     <li>
-                        <a href="https://github.com/MIBS" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw" target="_blank"></i></a>
+                        <a href="tel:94773738943" class="btn btn-default btn-lg"><i class="fa  fa-phone fa-fw"></i></a>
                     </li>
 
                 </ul>
