@@ -35,13 +35,14 @@
 		<div class="col-sm-8 col-sm-offset-2 col-md-8 col-md-offset-2 col-lg-8 col-lg-offset-2" id="more">
 			<p>
 			 In a fast emerging market, the Commercial Property growth is immense. We at Regal 360⁰ understand this, and have a vast portfolio of properties, from which we can choose, for each client, based on individual requirements such as budget etc.<br />
-			We handle all Commercial Real Estate such as –
+			
+			<b>We handle all Commercial Real Estate such as</b> –
 			<ul>
 				<li>Office Space</li>
 				<li>Showroom Space</li>
 				<li>Warehousing</li>
 			</ul>
-			We will aid you in 
+			<b>We will aid you in</b> -
 			<ul>
 				<li>Sales</li>
 				<li>Purchase</li>

@@ -29,15 +29,14 @@
 			 We also assist clients on the following: 
 			 <ul>
 				<li> Property construction and project management.</li>
-				<li> Supply of building materials that need to be sourced and supplied by the client to the contractor.</li>
+				<li> Assistance with the sourcing and supplying of materials by the client to the contractor</li>
 
-				<li> Look into the quality of the workmanship in order to maintain high standards.</li>
+				<li> Assessment of the quality of workmanship to ensure that high standards are maintained</li>
 
-				<li> Look into the technical issues that may arise during construction and advice on what steps that need to be taken.</li>
+				<li> Delving into, and following up on any technical issues that may arise during construction, and providing advice on remedying steps</li>
 
 				<li> Assist in getting the utility connections that are needed.</li>
-
-				<li> Interior design and landscaping advice.</li>
+				
 			</ul>
 			</p>
 		</div>
