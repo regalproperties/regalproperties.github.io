@@ -65,13 +65,12 @@
 				</a>
 				 -->
 				<!-- <br /> -->
-				<!-- <form action="//mcgill.us9.list-manage.com/subscribe/post?u=628815290e13ed7006948fc5e&amp;id=d76d5b1fb1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate> -->
-					
+				<form action="//regalpropertysl.us14.list-manage.com/subscribe/post?u=fcc340a940117d905c1ed85f1&amp;id=8ef6bbde3d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 					<input type="email" value="" name="EMAIL" class="email form-control" id="mce-EMAIL" placeholder="you@yourwebsite.com">
 					<!-- emppty section for bots -->
-					<div style="position: absolute; left: -5000px;"><input type="text" name="b_628815290e13ed7006948fc5e_d76d5b1fb1" tabindex="-1" value=""></div>
+					    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_fcc340a940117d905c1ed85f1_8ef6bbde3d" tabindex="-1" value=""></div>
 					<input type="submit" value="Get Notified" name="subscribe" id="mc-embedded-subscribe" class="btn btn-default">
-				<!-- </form> -->
+				</form>
 			</p>
 
 			<h2 class="as-h-question" id="as-notification">	
